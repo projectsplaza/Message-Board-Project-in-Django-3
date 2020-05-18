@@ -1,5 +1,6 @@
 # Message-Board-Project-in-Django-3
 This is a message board project built with Django 3 and bootstrap 4. This small project will help you to learn Django. In this project, you will learn about table relationships, Django templates, User Authentication, etc.
+<a href="http://projectsplaza.com/product/message-board-project-in-django-3/">Download source code</a>
 
 -   User register
 -   User login/logout
@@ -22,4 +23,3 @@ alex
 admin
 admin
 
-<a href="http://projectsplaza.com/product/message-board-project-in-django-3/">Download source code</a>
